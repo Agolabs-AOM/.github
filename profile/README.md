@@ -1,5 +1,4 @@
-## Hi there 👋
-Hello World!
+## Hello World! 👋
 <!--
 
 **Here are some ideas to get you started:**
